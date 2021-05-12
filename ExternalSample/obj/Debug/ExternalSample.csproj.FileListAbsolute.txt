@@ -1,0 +1,16 @@
+C:\Users\Leon Kamuf\source\repos\ExternalSample\ExternalSample\bin\Debug\ExternalSample.exe.config
+C:\Users\Leon Kamuf\source\repos\ExternalSample\ExternalSample\bin\Debug\ExternalSample.exe
+C:\Users\Leon Kamuf\source\repos\ExternalSample\ExternalSample\bin\Debug\ExternalSample.pdb
+C:\Users\Leon Kamuf\source\repos\ExternalSample\ExternalSample\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Leon Kamuf\source\repos\ExternalSample\ExternalSample\bin\Debug\itextsharp.dll
+C:\Users\Leon Kamuf\source\repos\ExternalSample\ExternalSample\bin\Debug\MimeKit.dll
+C:\Users\Leon Kamuf\source\repos\ExternalSample\ExternalSample\bin\Debug\System.Buffers.dll
+C:\Users\Leon Kamuf\source\repos\ExternalSample\ExternalSample\bin\Debug\itextsharp.xml
+C:\Users\Leon Kamuf\source\repos\ExternalSample\ExternalSample\bin\Debug\MimeKit.pdb
+C:\Users\Leon Kamuf\source\repos\ExternalSample\ExternalSample\bin\Debug\MimeKit.xml
+C:\Users\Leon Kamuf\source\repos\ExternalSample\ExternalSample\bin\Debug\System.Buffers.xml
+C:\Users\Leon Kamuf\source\repos\ExternalSample\ExternalSample\obj\Debug\ExternalSample.csprojAssemblyReference.cache
+C:\Users\Leon Kamuf\source\repos\ExternalSample\ExternalSample\obj\Debug\ExternalSample.csproj.CoreCompileInputs.cache
+C:\Users\Leon Kamuf\source\repos\ExternalSample\ExternalSample\obj\Debug\ExternalSample.csproj.CopyComplete
+C:\Users\Leon Kamuf\source\repos\ExternalSample\ExternalSample\obj\Debug\ExternalSample.exe
+C:\Users\Leon Kamuf\source\repos\ExternalSample\ExternalSample\obj\Debug\ExternalSample.pdb
